@@ -1,31 +1,19 @@
 {
   "lang": "zh-CN",
-  "name": "蛇梯棋小游戏",
-  "short_name": "蛇梯棋",
-  "description": "蛇梯棋小游戏，支持多人对战。",
+  "name": "Chaos Lu · Build Log",
+  "short_name": "Chaos",
+  "description": "移动开发、互动 Web、游戏系统与 AI 工作流的个人技术博客。",
   "start_url": "/",
-  "background_color": "#2f3d58",
-  "theme_color": "#2f3d58",
-  "orientation": "any",
+  "scope": "/",
+  "background_color": "#0a0b10",
+  "theme_color": "#0a0b10",
   "display": "standalone",
   "icons": [
     {
-      "src": "/icon512.png",
-      "sizes": "512x512"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "/screenshot1.png",
-      "sizes": "640x480",
-      "type": "image/png"
-    }
-  ],
-  "related_applications": [
-    {
-      "platform": "play",
-      "url": "https://play.google.com/store/apps/details?id=com.whatsapp",
-      "id": "com.whatsapp"
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
     }
   ]
 }
